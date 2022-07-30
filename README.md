@@ -14,7 +14,7 @@ Simplifies a given images colors by reducing the amount of uniquely colored of p
 
 Fills any closed "objects" in a black over white image.
 
-# [Detect Object](https://github.com/EgeEken/Fill-Detect)
+# [Detect Object](https://github.com/EgeEken/Detect-Object)
 
 Detects the object in an image and crops out the rest
 
