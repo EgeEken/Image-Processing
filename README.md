@@ -22,4 +22,4 @@ Detects the object in an image and crops out the rest
 
 Submerges an area of land based on the given topographical data and satellite image
 
-(This one isn't exactly "image processing" like the other ones but i relied heavily on analyzing the colors from the topographical map data because i couldnt extract the data directly from the website i was using. And this school project was what inspired me to work on these other image processing projects so i thought it would be fitting to include it here)
+(This one isn't exactly "image processing" like the other ones but i relied heavily on analyzing the colors from the topographical map images because i couldn't extract the data directly from the website i was using. And this school project was what inspired me to work on these other image processing projects so i thought it would be fitting to include it here)
