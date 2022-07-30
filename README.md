@@ -1,4 +1,4 @@
-# Image-Processing
+# Image Processing
 
 This repository is a list of links to and files from my previous projects on image processing
 
