@@ -2,23 +2,23 @@
 
 This repository is a list of links to and files from my previous projects on image processing
 
-# [Simplify](https://github.com/EgeEken/Simplify)
+## [Simplify](https://github.com/EgeEken/Simplify)
 
 Simplifies a given image into a black over white version of it that resembles a sketch.
 
-# [Simplify Color](https://github.com/EgeEken/Simplify-Color)
+## [Simplify Color](https://github.com/EgeEken/Simplify-Color)
 
 Simplifies a given images colors by reducing the amount of uniquely colored of pixels in it.
 
-# [Fill Object](https://github.com/EgeEken/Fill-Object)
+## [Fill Object](https://github.com/EgeEken/Fill-Object)
 
 Fills any closed "objects" in a black over white image.
 
-# [Detect Object](https://github.com/EgeEken/Detect-Object)
+## [Detect Object](https://github.com/EgeEken/Detect-Object)
 
 Detects the object in an image and crops out the rest
 
-# [Submerge](https://github.com/EgeEken/Submerge)
+## [Submerge](https://github.com/EgeEken/Submerge)
 
 Submerges an area of land based on the given topographical data and satellite image
 
