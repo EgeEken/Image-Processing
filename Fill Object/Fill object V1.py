@@ -23,7 +23,7 @@ def matrix_create(img):
     img_colorpixels = load(img_colors)
     width = img.size[0]
     height = img.size[1]
-    res = np.array(np.zeros((width,height)), dtype=tuple)
+    res = np.array(np.zeros((height,width)), dtype=tuple)
     for x in range(width):
         for y in range(height):
             res[y, x] = img_colorpixels[x,y]
@@ -48,13 +48,10 @@ def is_inside(x, y, matrix, dcount):
                 try:
                     a = matrix[ycheck, xcheck] == (0,0,0)
                 except IndexError:
-                    #print('image edge', (xcheck, ycheck), 'reached on direction:', (xi, yi))
                     return False 
                 if matrix[ycheck, xcheck] == (0,0,0):
-                    #print('border', (xcheck, ycheck), 'found on direction:', (xi, yi))
                     break
                 if xcheck < 0 or ycheck < 0:
-                    #print('image edge', (xcheck, ycheck), 'reached on direction:', (xi, yi))
                     return False
     return True
 
@@ -85,11 +82,8 @@ def fillmain():
         matrix = matrix_create(img)
         for x in range(width):
             for y in range(height):
-                #print('Checking:', (x,y))
                 if is_inside(x,y, matrix, dcount):
                     res_pixels[x, y] = (0,0,0)
-                    #count += 1
-                    #print('Filled', count, 'pixels. Last one:', (x,y))
         save(res, imgname + '_Filled_' + str(dcount) + 'D')
         end = time.time()
         print('Created', imgname + '_Filled_' + str(dcount) + 'D.png in ' + str(round(end-start, 2)) + ' seconds.')
