@@ -23,7 +23,7 @@ def matrix_create(img):
     img_colorpixels = load(img_colors)
     width = img.size[0]
     height = img.size[1]
-    res = np.array(np.zeros((width,height)), dtype=tuple)
+    res = np.array(np.zeros((height, width)), dtype=tuple)
     for x in range(width):
         for y in range(height):
             res[y, x] = img_colorpixels[x,y]
