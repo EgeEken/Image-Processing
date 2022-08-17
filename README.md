@@ -91,6 +91,18 @@ Changes the saturation of the given image based on the given coefficient
 </p>
 </details>
 
+## [Brighten](https://github.com/EgeEken/Brighten)
+
+Changes the brightness of the given image based on the given coefficient
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![Untitled](https://user-images.githubusercontent.com/96302110/185119707-e5bfa200-4219-4d55-a31e-a5ba9a6659bc.png)
+
+</p>
+</details>
+
 ## [Submerge](https://github.com/EgeEken/Submerge)
 
 Submerges an area of land based on the given topographical data and satellite image
