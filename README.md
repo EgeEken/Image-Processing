@@ -79,7 +79,17 @@ Detects the object in an image and crops out the rest
 </p>
 </details>
 
+## [Saturate](https://github.com/EgeEken/Saturate)
 
+Changes the saturation of the given image based on the given coefficient
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![Untitled](https://user-images.githubusercontent.com/96302110/185106812-d1dce009-baf4-4fd4-832c-207ba5a0ced0.png)
+
+</p>
+</details>
 
 ## [Submerge](https://github.com/EgeEken/Submerge)
 
