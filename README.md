@@ -130,4 +130,6 @@ Weights and biases for a 2 layer neural network model with 83% accuracy are in t
 ![ai results](https://user-images.githubusercontent.com/96302110/213899417-5ee56354-d802-43ed-9941-cb3d1024b2bc.gif)
 
 </p>
-</details>
+
+## [ImageProcessing_Ege](https://github.com/EgeEken/ImageProcessing_Ege)
+Python library including a bunch of core functions and programs to speed up the process of coding similar programs to these
