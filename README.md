@@ -132,6 +132,19 @@ Weights and biases for a 2 layer neural network model with 83% accuracy are in t
 </p>
 </details>
 
+## [AI Image Generator](https://github.com/EgeEken/Image-Generator)
+An AI program that can be trained to takes in a black and white sketch as input, and return a photograph, based on the data used for training.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="https://github.com/EgeEken/AI/assets/96302110/281fbeb0-48d2-4f4d-953b-1e3b963bb300" alt="Input" width="40%" />
+<img src="https://github.com/EgeEken/AI/assets/96302110/e6e88130-f85a-409b-abc5-890e7dbd1a9a" alt="Expected Output" width="40%" />
+<img src="https://github.com/EgeEken/AI/assets/96302110/a41c946a-a9d7-4583-ba30-a7b4c7b54a4e" alt="Output" width="40%" />
+
+</p>
+</details>
+
 ## [ImageProcessing_Ege](https://github.com/EgeEken/ImageProcessing_Ege)
 
 Python library including a bunch of core functions and programs to speed up the process of coding similar programs to these
