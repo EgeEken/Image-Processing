@@ -145,6 +145,18 @@ An AI program that can be trained to takes in a black and white sketch as input,
 </p>
 </details>
 
+## [Movement Tracker](https://github.com/EgeEken/Movement-Tracker)
+Tracks the movement in a given video, placing a red dot on the most active object.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="" alt="Input" width="40%" />
+<img src="" alt="Output" width="40%" />
+
+</p>
+</details>
+
 ## [ImageProcessing_Ege](https://github.com/EgeEken/ImageProcessing_Ege)
 
 Python library including a bunch of core functions and programs to speed up the process of coding similar programs to these
