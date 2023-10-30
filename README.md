@@ -150,9 +150,8 @@ Tracks the movement in a given video, placing a red dot on the most active objec
 
 <details><summary>Results: (click here to open)</summary>
 <p>
-
-<img src="" alt="Input" width="40%" />
-<img src="" alt="Output" width="40%" />
+  
+<video loop autoplay muted playsinline src="https://github.com/EgeEken/Movement-Tracker/assets/96302110/7a32bc2e-4452-4102-be41-7c256087b06e"> 
 
 </p>
 </details>
